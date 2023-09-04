@@ -150,6 +150,7 @@ def find_json_in_picle(dir: str = 'r1') -> None:
 # }
 
 
+#155 изменяем lambda фулл список без json
 def travel_directory(dir: str = "C:Users\Евгений\PycharmProjects\r1", new_filename: str = "new_File") -> None:
     files = os.listdir()
     for file in files:
