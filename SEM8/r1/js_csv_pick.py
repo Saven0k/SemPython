@@ -150,8 +150,9 @@ def find_json_in_picle(dir: str = 'r1') -> None:
 # }
 
 
+#155 изменяем lambda фулл список без json
 def travel_directory(dir: str = "C:Users\Евгений\PycharmProjects\r1", new_filename: str = "new_File") -> None:
-    files = list(filter(lambda x: '.json' in x, os.listdir()))
+    files = os.listdir()
     for file in files:
         with (open(f'{new_filename}.csv', 'w') as w_csv,
               open(f'{new_filename}.json', 'w') as w_json,
