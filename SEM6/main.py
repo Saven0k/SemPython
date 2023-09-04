@@ -4,7 +4,7 @@
 import portfolio
 
 #APPL - > Apple Inc
-#BA - > The Boeing COmpany
+#BA - > The Boeing
 #DIS - > The Walt Disney Company
 #NIKE - > Nike Inc
 stocks = {"APPL": 5, "BA": 115, "DIS": 25, "NIKE": 50}
