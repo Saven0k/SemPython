@@ -17,8 +17,17 @@ class Factory:
         self.args = args
         self.kwargs = kwargs
     def create_animal(self):
-        animal = self.type_animal(self.name, self.age, self.args, self.kwargs)
-        print(animal)
+        dog = Dog(self.name, self.age, self.args, self.kwargs)
+        fish = Fish(self.name, self.age, self.args, self.kwargs)
+        kotopes = Kotopes(self.name, self.age, self.args, self.kwargs)
+
+        if self.type_name == dog.__name__:
+            return dog
+        elif self.type_name == fish.__name__:
+            return fish
+        elif self.type_name == kotopes.__name__:
+            return kotopes
+
 
 
 
