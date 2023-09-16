@@ -1,0 +1,17 @@
+[
+  {
+    "id": "0000001",
+    "level": 1,
+    "user_name": "Savenok"
+  },
+  {
+    "id": "000002",
+    "level": 2,
+    "user_name": "Kivy"
+  },
+  {
+    "id": "000003",
+    "level": 3,
+    "user_name": "Django"
+  }
+]
