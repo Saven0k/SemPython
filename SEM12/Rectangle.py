@@ -92,7 +92,7 @@ class Rectangle:
 
 if __name__ == '__main__':
     r1 = Rectangle(length_cm=2,
-                   width_cm=1)
+                   width_cm=11)
     print(r1)
     # r2 = Rectangle(3)
     # r3 = r2 + r1
