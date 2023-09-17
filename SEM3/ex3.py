@@ -45,9 +45,9 @@ def bag_2(my_dict, carrying, full_mass):
                 bag_2(my_dict, carrying, full_mass)
 
 
-def gg(my_dict, carrying, full_mass):
-    for key, value in my_dict.items():
-        if
+# def gg(my_dict, carrying, full_mass):
+#     for key, value in my_dict.items():
+#         if
 
 
 Bag(my_dict)
