@@ -2,7 +2,7 @@
 # представление.
 # Функцию hex используйте для проверки своего результата.
 
-def Ten_To_SixTeen():
+def Ten_To_SixTeen(number: int):
     temp = "0123456789ABCDEF"
     result = ""
     number = int(input("Введите целое число: "))
