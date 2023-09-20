@@ -1,0 +1,7 @@
+ERROR:__main__:Функция create_data с аргументами args = ('9-я среда мая',), kwargs ={} выдвала ошибку: message_errors = ValueError()
+ERROR:__main__:Функция create_data с аргументами args = ('9-я среда мая',), kwargs ={} выдавала ошибку: message_errors = ValueError()
+ERROR:__main__:Функция create_data с аргументами args = ('9-я среда мая',), kwargs ={} выдавала ошибку: message_errors = ValueError()
+ERROR:__main__:Функция create_data с аргументами args = ('9-я среда мая',), kwargs ={} выдавала ошибку: message_errors = ValueError()
+ERROR:__main__:Функция create_data с аргументами args = ('None None None',), kwargs ={} выдавала ошибку: message_errors = ValueError("invalid literal for int() with base 10: 'N'")
+ERROR:__main__:Функция create_data с аргументами args = ('9-я среда мая',), kwargs ={} выдавала ошибку: message_errors = ValueError()
+ERROR:__main__:Функция create_data с аргументами args = ('None None None',), kwargs ={} выдавала ошибку: message_errors = ValueError("invalid literal for int() with base 10: 'N'")

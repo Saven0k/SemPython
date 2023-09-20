@@ -1,0 +1,1 @@
+ERROR    - 2023-09-19 09:23:31,891. В модуле "__main__" в строке 036 функция "wrapper()" в 1695104611.8918025 секунд записала сообщение: Функция div с аргументами args = (1, 0), kwargs ={} выдвала ошибку: message_errors = ZeroDivisionError('division by zero')
